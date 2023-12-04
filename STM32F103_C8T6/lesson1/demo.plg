@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\CareerDev\Firmware\Firmware\STM32F103_C8T6\lesson1\demo.uvproj
+Project File Date:  12/04/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling startup_stm32f10x_md.s...
+compiling system_stm32f10x.c...
+system_stm32f10x.c: Error: command-line:  #992: invalid macro definition: STM32F10X_MD.USE_STDPERIPH_DERIVER
+".\demo.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'Target 1'
+compiling system_stm32f10x.c...
+compiling main.c...
+linking...
+Program Size: Code=816 RO-data=268 RW-data=20 ZI-data=1636  
+".\demo.axf" - 0 Errors, 0 Warning(s).
